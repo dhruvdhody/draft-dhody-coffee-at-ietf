@@ -24,7 +24,7 @@ abbrev: "Coffee"
 category: info
 
 docname: draft-dhody-coffee-at-ietf-latest
-submissiontype: ietf  # also: "independent", "editorial", "IAB", or "IRTF"
+submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
