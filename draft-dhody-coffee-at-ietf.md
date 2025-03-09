@@ -57,7 +57,7 @@ Furthermore, as all meaningful IETF work occurs during in-person meetings, only 
 
 The IETF is an organization that relies heavily on active discussion and participation. Coffee consumption has been observed to directly impact the ability of individuals to remain engaged during long sessions.
 
-Studies {{https://pmc.ncbi.nlm.nih.gov/articles/PMC5696634/}} have shown that attendees experiencing caffeine deficiency are less likely to contribute effectively.
+[Studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC5696634/) have shown that attendees experiencing caffeine deficiency are less likely to contribute effectively.
 
 Also, there have been inconsistencies in coffee supply across IETF meetings, which may or may not have led to negative effects on consensus building.
 
