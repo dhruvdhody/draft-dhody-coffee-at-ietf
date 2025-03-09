@@ -9,8 +9,8 @@ number:
 date:
 consensus: true
 v: 3
-# area: AREA
-# workgroup: WG Working Group
+area: GEN
+workgroup: GEN
 keyword:
  - CDS
  - CAP
@@ -61,13 +61,13 @@ Studies have shown that attendees experiencing caffeine deficiency (unreferenced
 
 Also, there have been inconsistencies in coffee supply across IETF meetings, which may or may not have led to negative effects on consensus building.
 
-# Proposed Solutions
+# Proposed Solutions {#ps}
 
 To address the identified issues, the following recommendations are proposed:
 
    - Each IETF venue MUST provide coffee stations within 5 meters of every meeting room to prevent cases of Caffeine Deficiency Syndrome (CDS) among attendees.
    - NOT all coffee is equal and thus a mechanism is needed to rate coffee.
-   - But individual coffee taste COULD differ and thus how to rate
+   - But individual coffee taste COULD differ, and thus how to rate
    - A man-made live barista coffee SHOULD be provided as some don't consider the bulk made coffee as coffee.
    - Alternative caffeine sources (e.g., energy drinks) MAY be available but SHALL NOT BE considered coffee.
    - The IETF Secretariat MUST ensure that coffee supply logistics are prioritized and develop a Coffee Availability Protocol (CAP) ensuring a fair and distributed allocation of coffee.
@@ -76,12 +76,11 @@ Coffee is an essential, yet often overlooked, component of a successful IETF mee
 
 # Privacy Considerations
 
-TODO Security
-
+Participation in IETF meetings is public, and attendees' names are often listed openly. As a result, being associated with the IETF MAY also lead to an informal association as a coffee enthusiast, which could have unforeseen social implications. If maintaining privacy in this regard is a concern, the most effective approach is to refrain from attending IETF meetings.
 
 # IANA Considerations
 
-This document has no IANA actions.
+This document has no IANA actions but IANA could maintain the coffee rating system as per {{ps}}.
 
 
 --- back
