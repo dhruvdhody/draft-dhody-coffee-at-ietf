@@ -55,13 +55,13 @@ Coffee is a well-known stimulant, therefore the IETF MUST provide unlimited coff
 
 # Introduction
 
-Over the years, coffee has become an integral component of the IETF meeting culture. However, there has been no formal specification or standardization regarding the role of coffee in ensuring the smooth functioning of IETF discussions. 
+Over the years, coffee has become an integral component of the IETF meeting culture. However, there has been no formal specification or standardization regarding the role of coffee in ensuring the smooth functioning of IETF discussions.
 
 This document provides an overview of the significance of coffee in the IETF environment and establishes preliminary recommendations for ensuring consistent and sufficient caffeine availability.
 
 # Terminology
 
-This document uses MUST, SHOULD, MAY and other words in capital for emphasis. 
+This document uses MUST, SHOULD, MAY and other words in capital for emphasis.
 
 - IETF Coffee: Any caffeinated beverage consumed during an IETF meeting.
 - Caffeine Deficiency Syndrome (CDS): A state of reduced cognitive function due to the absence of coffee.
@@ -74,12 +74,12 @@ This document is exclusively concerned with coffee drinkers and their needs duri
 Furthermore, as all meaningful IETF work occurs during in-person meetings, only those physically attending IETF sessions should have a say in coffee-related logistics. Remote participants are encouraged to establish their own independent mechanisms for securing coffee, as their caffeine access is beyond the scope of this document.
 
 # Problem Statement
-   
-The IETF is an organization that relies heavily on active discussion and participation. Coffee consumption has been observed to directly impact the ability of individuals to remain engaged during long sessions. 
+
+The IETF is an organization that relies heavily on active discussion and participation. Coffee consumption has been observed to directly impact the ability of individuals to remain engaged during long sessions.
 
 Studies have shown that attendees experiencing caffeine deficiency (unreferenced claim here) are less likely to contribute effectively.
 
-Also, there have been inconsistencies in coffee supply across IETF meetings, which may or may not have led to negative effects on consensus building. 
+Also, there have been inconsistencies in coffee supply across IETF meetings, which may or may not have led to negative effects on consensus building.
 
 # Proposed Solutions
 
