@@ -88,4 +88,4 @@ This document has no IANA actions but IANA could maintain the coffee rating syst
 # Acknowledgments
 {:numbered="false"}
 
-Authors acknowledge coffee is the supreme God.
+IETF acknowledges coffee is THE SUPREME GOD.
