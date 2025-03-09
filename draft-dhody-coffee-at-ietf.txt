@@ -2,7 +2,7 @@
 
 
 
-WG Working Group                                                      DD
+GEN                                                                   DD
 Internet-Draft                                             HuaweiTelecom
 Intended status: Informational                              9 March 2025
 Expires: 10 September 2025
@@ -20,6 +20,13 @@ Abstract
 
    Coffee is a well-known stimulant, therefore the IETF MUST provide
    unlimited coffee at all events.
+
+Discussion Venues
+
+   This note is to be removed before publishing as an RFC.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/dhruvdhody/draft-dhody-coffee-at-ietf.
 
 Status of This Memo
 
@@ -128,7 +135,7 @@ Table of Contents
    *  NOT all coffee is equal and thus a mechanism is needed to rate
       coffee.
 
-   *  But individual coffee taste COULD differ and thus how to rate
+   *  But individual coffee taste COULD differ, and thus how to rate
 
    *  A man-made live barista coffee SHOULD be provided as some don't
       consider the bulk made coffee as coffee.
@@ -146,11 +153,17 @@ Table of Contents
 
 6.  Privacy Considerations
 
-   TODO Security
+   Participation in IETF meetings is public, and attendees' names are
+   often listed openly.  As a result, being associated with the IETF MAY
+   also lead to an informal association as a coffee enthusiast, which
+   could have unforeseen social implications.  If maintaining privacy in
+   this regard is a concern, the most effective approach is to refrain
+   from attending IETF meetings.
 
 7.  IANA Considerations
 
-   This document has no IANA actions.
+   This document has no IANA actions but IANA could maintain the coffee
+   rating system as per Section 5.
 
 Acknowledgments
 
