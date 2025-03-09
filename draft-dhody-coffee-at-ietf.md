@@ -34,10 +34,6 @@ workgroup: WG Working Group
 keyword:
  - CDS
  - CAP
-venue:
-  github: "dhruvdhody/draft-dhody-coffee-at-ietf"
-  latest: "https://dhruvdhody.github.io/draft-dhody-coffee-at-ietf/draft-dhody-coffee-at-ietf.html"
-
 author:
  -
     fullname: DD
